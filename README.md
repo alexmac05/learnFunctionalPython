@@ -8,6 +8,8 @@ https://app.pluralsight.com/library/courses/core-python-functions-functional-pro
 
 https://app.pluralsight.com/library/courses/python-3-functional-programming/table-of-contents
 
+CodeAcademy https://www.codecademy.com/courses/learn-advanced-python-3-functional-programming/articles/functional-programming-in-python
+
 RealPython:
 https://realpython.com/courses/understand-list-comprehensions/
 https://realpython.com/list-comprehension-python/
