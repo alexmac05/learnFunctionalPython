@@ -18,6 +18,10 @@ Book: Functional Python Programming by Steven Lott
 
 Podcasts - various podcasts with Functional Python Programming
 https://realpython.com/podcasts/rpp/116/
+https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425?i=1000363862891
+https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425?i=1000363862891
+https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425?i=1000363862891
+https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425?i=1000363862891
 
-Also ChatGPT
+ChatGPT 3.5 - a new resource for learning that I'm not sure how to credit or site but I now use this to learn topics. :
 
