@@ -90,4 +90,34 @@ results = filter(lambda x: x.nobel is True, scientists_tuple)
 
 #pprint([x for x in scientists_tuple if x.nobel is True])
 
+pprint(scientists_tuple)
 
+ages_of_scientists = map(lambda x: 2023-int(x.born), scientists_tuple)
+
+pprint(tuple(ages_of_scientists))
+
+from functools import reduce
+
+
+nums = (1,2,3,4,5,6,7,8)
+s=0
+for i in nums:
+    s += i**2
+
+print(str(s))
+
+print(list(map(lambda h: h**2, nums)))
+
+s = reduce(lambda x, y: x+y, map(lambda h: h**2, nums))
+print(str(s))
+
+#Given the tuple of numbers nums
+numbersOfMine = (2, 12, 14, 1, 8, 10, 3, 7, 5, 15)
+
+#First - find all numbers greater than 10 (FILTER)
+
+#Second - square them MAP
+
+#third - find the min REDUCE
+
+#Figure out how to chain them together

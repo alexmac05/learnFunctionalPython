@@ -8,6 +8,12 @@ https://app.pluralsight.com/library/courses/core-python-functions-functional-pro
 
 https://app.pluralsight.com/library/courses/python-3-functional-programming/table-of-contents
 
+Pluralsight - Functional Programming: The Big Picture
+
+JavaScript and functional programming https://app.pluralsight.com/library/courses/javascript-functional-programming-concepts/table-of-contents
+
+Manning Software: Grokking Functional Programming
+
 CodeAcademy https://www.codecademy.com/courses/learn-advanced-python-3-functional-programming/articles/functional-programming-in-python
 
 RealPython:
