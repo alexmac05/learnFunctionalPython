@@ -1,0 +1,32 @@
+Tips on how to use ChatGPT to learn coding, like Functional Coding in python
+
+1. Have ChatGPT ask you questions to test your knowledge. For exmample here is a prompt: "Could you ask me questions about Functional Programing in python and test my knowledge?" 
+This will result in some back and forth that will help you reinforce your knowledge. 
+
+
+2. When pasting code snippets into the code make a delimiter. An example is like this:
+When I run this code, the second print statement has an empty list. Why?
+
+###
+numbersGreaterThan10 = filter(lambda x: x > 10, numbersOfMine)
+print(list(numbersGreaterThan10))
+print(list(numbersGreaterThan10))
+
+
+3. Do not change topics on a session. ChatGPT is keeping context which is one of its most powerful features, but when you change topics you confuse it.
+
+
+4. Remember that AI can hallucinate which means it makes up things. It told me false things about map() and I had to know better. Remember what you learn from AI must be verified. 
+If you think it is not correct, ask it to reveal its source. Ask it to clarify itself. 
+
+5. AI can copy and learn from your patterns in a session since it is holding context. This can be useful. It can hold for example your way of handling edge cases as it sees the patterns you are following as you are giving it code to refactor. 
+
+6. It is useful to think of the roles AI code assistance can help you. For example, ChatGPT can be a Jr. programmer that creates code quickly that you can then review, refactor, and test. It can also be a team lead and help explain small 
+narrow scoped questions. It does well with a narrow scoped explanation. It can also be a project manager, you can tell it what you want to do in casual language and it can give you a project outline. It can help create the scaffoling 
+or blueprints or boilerplates for your code project. It can create unit tests. It can help choose algorithms. It can help parse use cases. It is great for SQL queries. Light pair programming and debugging. 
+
+7. ChatGPT is not good with complex code or niche technologies.
+
+8. it is good for Type script
+
+9. It is good for creating dummy data, analyzing, restructing data structures
